@@ -1,6 +1,8 @@
 # Submit Your Article
 This repository includes tutorial and support materials about how to submit your article to Xraft.Lab
 
+## Format ##
+
 Xraft.Lab's webpage is built on github, so currently we only support  **github flavor**  markdown article. Since this blog is supported by hexo, you can set detail information in  **front matters**  .
 Roughly structure follow this:
 
