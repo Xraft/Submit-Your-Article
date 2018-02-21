@@ -3,7 +3,7 @@ This repository includes tutorial and support materials about how to submit your
 
 ## Format ##
 
-Xraft.Lab's webpage is built on github, so currently we only support  **github flavor**  markdown article. Since this blog is supported by hexo, you can set detail information in  **front matters**  .
+Xraft.Lab's webpage is built on github, so currently we only support  **github flavor**  markdown article. Since this blog is supported by hexo, you can set detail information in  [front matters](https://hexo.io/docs/front-matter.html)  .
 Roughly structure follow this:
 
         ---
