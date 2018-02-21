@@ -11,8 +11,11 @@ date: *Roughly recording your time of creating this article. Example: <u>2018-02
 tags: *Optional, you can specify it, we will help allocate and adjust approparate tags* </br>
 categories: *Optional, you can specify it, we will help allocate and adjust approparate categories* </br>
 
-'''
 Put your github flavor markdown here.
-'''
 
+···
+
+···
+for i=1:
+  i++
 ···
