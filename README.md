@@ -13,8 +13,16 @@ Roughly structure follow this:
         
         And put your github flavor markdown here.
 
-If you need use images, create new folder called 'img', put images you want to use in it, and quote it with relative path in your article.
+If you need use images  
+**For local images:**  
+Create new folder called 'img', put images you want to use in it, and quote it with relative path in your article.
                       
         ![xx](./img/test.png)
+
+**For images on Internet:**  
+Directly quote it in your markdown.
         
-To be clear, we prepare a templete, See templete.
+        ![xx](https://xxxx.jpg)
+
+
+To make it simple, we prepare a templete, see templete file.
