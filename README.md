@@ -30,7 +30,7 @@ Directly quote it in your markdown.
 
 To make it simple, we prepare a templete, see  **templete**  in this repository, it looks like this.    
 <img src="./templete.png" width=250, height=400>  
-There will be a background image bellow title 'TEST PAGE', don't worry about that, we will help to choose it. You can directly modify this templete to your own work.  
+There will be a background image bellow title 'TEST PAGE', don't worry about that, we will help to choose it. You can directly modify this templete for your own work.  
 
 ## How to submit ##
 
