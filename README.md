@@ -28,9 +28,12 @@ Directly quote it in your markdown.
         ![xx](https://xxxx.jpg)
 
 
-To make it simple, we prepare a templete, see templete file.
+To make it simple, we prepare a templete, see templete file. You can directly modify it to your own work.  
+
+## How to submit ##
+
 After finish all of above, send your work to here:
 
-*** Email:gezheng121@foxmail.com ***
+**Email : gezheng121@foxmail.com**
 
 We will help you fix slight mistakes in format. And thank you for your contribution!
