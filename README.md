@@ -13,7 +13,8 @@ Roughly structure follow this:
         
         And put your github flavor markdown here.
 
-If you need use images  
+## If you need use images ##  
+
 **For local images:**  
 Create new folder called 'img', put images you want to use in it, and quote it with relative path in your article.
                       
