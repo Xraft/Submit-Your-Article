@@ -1,5 +1,5 @@
 # Submit Your Article
-This repository includes tutorial and support materials about how to submit your article to Xraft.Lab
+This repository includes tutorial and support materials about how to submit your article to Xraft.Lab.
 
 ## Format ##
 
@@ -29,3 +29,8 @@ Directly quote it in your markdown.
 
 
 To make it simple, we prepare a templete, see templete file.
+After finish all of above, send your work to here:
+
+*** Email:gezheng121@foxmail.com ***
+
+We will help you fix slight mistakes in format. And thank you for your contribution!
