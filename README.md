@@ -28,7 +28,7 @@ Directly quote it in your markdown.
         ![xx](https://xxxx.jpg)
 
 
-To make it simple, we prepare a templete, see  **"templete"**  in this repository. You can directly modify it to your own work.  
+To make it simple, we prepare a templete, see  **templete**  in this repository. You can directly modify it to your own work.  
 
 ## How to submit ##
 
